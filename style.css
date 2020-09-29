@@ -1,0 +1,23 @@
+* {cursor: url(oth441.cur),default;}
+
+.square {
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-color: rgb(122, 47, 47);
+  }
+  
+  .grid {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+    width: 618px;
+    height: 618px;
+  }
+  
+  .mole {
+    background-image: url('Burns100.png');
+    background-size: cover;
+  }
+  
